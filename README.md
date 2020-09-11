@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**Kelier/Kelier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+> Hola, What's up
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+I have to admit I've been a bit lazy lately, but I work for two companies. 🏢
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=kelier&show_icons=true&include_all_commits=true&theme=dark" />
+
+<br>
+
+So will we stand on the bridge 🕯
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelier&layout=compact&theme=dark" />
+
+<br>
+
+The modern poet's 🥼 / Shameful novelist 🧀 /  The observer of humanity 📺  / A connoisseur of music 🎻
