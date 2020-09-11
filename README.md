@@ -5,7 +5,7 @@
 
 <br>
 
-I have to admit I've been a bit lazy lately, but I work for two companies. 🏢
+I have to admit I've been a bit lazy lately, but I work for two companies, I left behind a great fortune. 🏢
 
 <br>
 
@@ -13,7 +13,7 @@ I have to admit I've been a bit lazy lately, but I work for two companies. 🏢
 
 <br>
 
-So will we stand on the bridge 🕯
+So will we stand on the bridge. 🕯
 
 <br>
 
