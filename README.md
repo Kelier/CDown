@@ -22,3 +22,6 @@ So will we stand on the bridge. 🕯
 <br>
 
 The modern poet's 🥼 / Shameful novelist 🧀 /  The observer of humanity 📺  / A connoisseur of music 🎻
+
+<br>
+<img src="https://komarev.com/ghpvc/?username=kelier&color=blueviolet&style=flat-square">
